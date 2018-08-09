@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A fullstack graphql reading list application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Christopher Beards",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
